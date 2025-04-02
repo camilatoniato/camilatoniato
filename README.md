@@ -1,16 +1,14 @@
-## Hi there 👋
 
-<!--
-**camilatoniato/camilatoniato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá, meu nome é Camila Toniato!
 
-Here are some ideas to get you started:
+<img src="https://img.shields.io/static/v1?label=Overview&message=camilatoniato&color=AFD7E1&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>Eu curso Design na Universidade Presbiteriana Mackenzie<br/>Atualmente estou na Apple Developer Academy | Mackenzie como Junior Learner</p>
+
+## Habilidades
+-  Linguagens de Programação: 
+
+    [![My Skills](https://skillicons.dev/icons?i=swift)](https://skillicons.dev)
+- Softwares: 
+
+    [![My Skills](https://skillicons.dev/icons?i=ps,ai,pr)](https://skillicons.dev)

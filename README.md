@@ -12,3 +12,7 @@
 - Softwares: 
 
     [![My Skills](https://skillicons.dev/icons?i=ps,ai,pr)](https://skillicons.dev)
+
+  <a href="#" title="LinkedIn">
+  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link= "https://www.linkedin.com/in/camila-ruiz-toniato-91a926301/" alt="LinkedIn"/></a>
+ 
